@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;goWebServicesStudy&gt;">
+    <CLASSES>
+      <root url="file://C:/Go/work/src/github.kdc.capitalone.com" />
+      <root url="file://$PROJECT_DIR$/../workspace/src/plexus" />
+      <root url="file://C:/Go/work/src/github.com" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../workspace/src/plexus/vendor/github.com/gocql/gocql/testdata" />
+      <root url="file://C:/Go/work/src/github.kdc.capitalone.com/statim/plexus/vendor/golang.org/x/crypto/ssh/testdata" />
+      <root url="file://$PROJECT_DIR$/../workspace/src/plexus/vendor/github.com/stretchr/testify/_codegen" />
+      <root url="file://C:/Go/work/src/github.com/googollee/go-engine.io/.git" />
+      <root url="file://C:/Go/work/src/github.kdc.capitalone.com/statim/plexus/vendor/golang.org/x/crypto/sha3/testdata" />
+      <root url="file://$PROJECT_DIR$/../workspace/src/plexus/.idea" />
+      <root url="file://C:/Go/work/src/github.com/googollee/go-socket.io/.git" />
+      <root url="file://C:/Go/work/src/github.kdc.capitalone.com/statim/plexus/.git" />
+      <root url="file://C:/Go/work/src/github.kdc.capitalone.com/statim/plexus/vendor/github.com/gocql/gocql/testdata" />
+      <root url="file://$PROJECT_DIR$/../workspace/src/plexus/vendor/golang.org/x/crypto/ssh/testdata" />
+      <root url="file://C:/Go/work/src/github.kdc.capitalone.com/statim/plexus/.idea" />
+      <root url="file://$PROJECT_DIR$/../workspace/src/plexus/vendor/github.com/golang/snappy/testdata" />
+      <root url="file://C:/Go/work/src/github.com/gorilla/websocket/.git" />
+      <root url="file://C:/Go/work/src/github.kdc.capitalone.com/statim/plexus/vendor/github.com/golang/snappy/testdata" />
+      <root url="file://$PROJECT_DIR$/../workspace/src/plexus/vendor/github.com/aws/aws-sdk-go/vendor/github.com/go-ini/ini/testdata" />
+      <root url="file://$PROJECT_DIR$/../workspace/src/plexus/vendor/golang.org/x/crypto/sha3/testdata" />
+      <root url="file://$PROJECT_DIR$/../workspace/src/plexus/.git" />
+      <root url="file://C:/Go/work/src/github.kdc.capitalone.com/statim/plexus/vendor/github.com/hashicorp/consul/website/source/assets/javascripts/_app" />
+      <root url="file://$PROJECT_DIR$/../workspace/src/plexus/vendor/github.com/davecgh/go-spew/spew/testdata" />
+      <root url="file://$PROJECT_DIR$/../workspace/src/plexus/vendor/github.com/hashicorp/consul/website/source/assets/javascripts/_app" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://C:/Go/work/src/github.kdc.capitalone.com/statim/plexus/vendor/github.com/aws/aws-sdk-go/vendor/github.com/go-ini/ini/testdata" />
+      <root url="file://C:/Go/work/src/github.kdc.capitalone.com/statim/plexus/vendor/github.com/stretchr/testify/_codegen" />
+      <root url="file://C:/Go/work/src/github.kdc.capitalone.com/statim/plexus/vendor/github.com/davecgh/go-spew/spew/testdata" />
+    </excluded>
+  </library>
+</component>
